@@ -1,0 +1,13 @@
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\bin\Debug\speechrecognition1.exe.config
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\speechrecognition1.csprojResolveAssemblyReference.cache
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\speechrecognition1.csproj.GenerateResource.Cache
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\bin\Debug\speechrecognition1.exe
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\bin\Debug\speechrecognition1.pdb
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\speechrecognition1.exe
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\speechrecognition1.pdb
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\speechrecognition1.csproj.ResolveComReference.cache
+C:\Users\Yashu_r\Documents\Visual Studio 2015\Projects\speechrecognition1\speechrecognition1\obj\Debug\WindowsFormsApplication1.Form4.resources
