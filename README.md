@@ -25,3 +25,11 @@ Dictionary is not used,
 
 OUTPUT:-
 
+![speech1](https://user-images.githubusercontent.com/21276406/29305824-5297ef80-81b8-11e7-98af-694ae1cc8945.png)
+
+
+![speech2](https://user-images.githubusercontent.com/21276406/29305835-5c53f320-81b8-11e7-94a6-909c63a0c2a0.png)
+
+
+![speech3](https://user-images.githubusercontent.com/21276406/29305846-646a21f6-81b8-11e7-9f7e-9b18c213a993.png)
+
