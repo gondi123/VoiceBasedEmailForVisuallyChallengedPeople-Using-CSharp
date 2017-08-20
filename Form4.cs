@@ -106,7 +106,8 @@ namespace WindowsFormsApplication1
                         
                 }
             }
-            textBox1.Text += e.Result.Text.ToString() + Environment.NewLine;
+         //
+         textBox1.Text += e.Result.Text.ToString() + Environment.NewLine;
         }
 
     }
